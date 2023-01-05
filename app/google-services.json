@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903930952131",
+    "project_id": "appperpustakaansmpn1rembang",
+    "storage_bucket": "appperpustakaansmpn1rembang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903930952131:android:4b1b45ba182bd333f22576",
+        "android_client_info": {
+          "package_name": "com.example.appperpustakaansmpn1rembang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903930952131-060lqlam2sdfa90msferv2e47sv0s2av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd0d5UOYV9O4q7lgy1o53-IqtBRxqr_4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903930952131-060lqlam2sdfa90msferv2e47sv0s2av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
